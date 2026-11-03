@@ -1,0 +1,41 @@
+ID,User,Department,AI_Tool,Use_Case,Daily_Hours,Rating
+1,John,IT,ChatGPT,Code Generation,3,5
+2,Emma,HR,Gemini,Resume Screening,2,4
+3,Michael,Finance,Copilot,Report Creation,3,5
+4,Sophia,Marketing,Claude,Content Writing,4,5
+5,William,IT,ChatGPT,Debugging,3,4
+6,Olivia,Sales,Gemini,Email Drafting,2,4
+7,James,Finance,Copilot,Data Analysis,3,5
+8,Ava,HR,ChatGPT,Policy Drafting,2,4
+9,Benjamin,Marketing,Claude,Campaign Ideas,4,5
+10,Isabella,Sales,Gemini,Customer Response,2,4
+11,Lucas,IT,ChatGPT,API Development,4,5
+12,Mia,HR,Copilot,Document Review,2,4
+13,Ethan,Finance,Gemini,Budget Forecasting,3,5
+14,Charlotte,Marketing,Claude,Social Media Posts,3,5
+15,Mason,Sales,ChatGPT,Lead Qualification,2,4
+16,Amelia,IT,Copilot,Code Review,4,5
+17,Logan,Finance,Gemini,Invoice Analysis,2,4
+18,Harper,HR,ChatGPT,Training Material,3,5
+19,Elijah,Marketing,Claude,Ad Copy Generation,3,5
+20,Evelyn,Sales,Gemini,Proposal Writing,2,4
+21,Alexander,IT,ChatGPT,Unit Testing,4,5
+22,Abigail,HR,Copilot,HR Analytics,2,4
+23,Daniel,Finance,Gemini,Risk Assessment,3,5
+24,Ella,Marketing,Claude,Market Research,3,5
+25,Matthew,Sales,ChatGPT,Meeting Notes,2,4
+26,Scarlett,IT,Copilot,System Documentation,4,5
+27,Joseph,Finance,Gemini,Financial Summaries,3,5
+28,Grace,HR,ChatGPT,Interview Questions,2,4
+29,Samuel,Marketing,Claude,Brand Content,3,5
+30,Chloe,Sales,Gemini,Sales Forecasting,2,4
+31,David,IT,ChatGPT,Automation Scripts,4,5
+32,Victoria,HR,Copilot,Employee Surveys,2,4
+33,Carter,Finance,Gemini,Trend Analysis,3,5
+34,Lily,Marketing,Claude,Blog Writing,4,5
+35,Owen,Sales,ChatGPT,CRM Updates,2,4
+36,Hannah,IT,Copilot,Code Optimization,4,5
+37,Wyatt,Finance,Gemini,Expense Tracking,3,5
+38,Zoey,HR,ChatGPT,Knowledge Base,2,4
+39,Gabriel,Marketing,Claude,Product Descriptions,3,5
+40,Nora,Sales,Gemini,Client Communications,2,4

@@ -1,0 +1,28 @@
+GENERATIVE ARTIFICIAL INTELLIGENCE (GEN AI)
+
+Introduction
+Generative Artificial Intelligence (Gen AI) is a branch of Artificial Intelligence that can create new content such as text, images, audio, video, and code. Unlike traditional AI systems that mainly analyze or classify data, Gen AI generates new outputs based on patterns learned from large datasets.
+
+What is Generative AI?
+Generative AI refers to AI models that learn from existing data and generate human-like content. These models use advanced machine learning techniques, especially Deep Learning and Large Language Models (LLMs), to produce creative and meaningful results.
+
+Examples of Generative AI
+1. ChatGPT - Generates human-like text responses.
+2. Gemini - Google's AI assistant for text, code, and reasoning.
+3. GitHub Copilot - Assists developers by generating code.
+4. DALL-E - Creates images from text descriptions.
+5. Midjourney - AI-powered image generation tool.
+6. Stable Diffusion - Open-source image generation model.
+
+How Generative AI Works
+1. Data Collection:
+   Large amounts of text, images, audio, or video data are collected.
+
+2. Model Training:
+   Deep learning models are trained on this data to learn patterns and relationships.
+
+3. Prompt Input:
+   Users provide instructions or prompts.
+
+4. Content Generation:
+  
